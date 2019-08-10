@@ -5,4 +5,4 @@ Git tracks changes.
 My stupid boss still prefers SVN.
 huuhuhuhu
 dev branch
-Creating a new branch is quick
+Creating a new branch is quick & simple.
